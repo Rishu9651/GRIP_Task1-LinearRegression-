@@ -1,1 +1,1 @@
-# GRIP_Task1-LinearRegression-
+# GRIP_Task1-Supervised_ML-
